@@ -1,4 +1,4 @@
-# Horus Entry Exam – Fullstack Programmer Internship (Dhio)
+# Horus Entry Exam – Fullstack Developer Internship (Dhio)
 
 ## Port yang Digunakan
 - **Backend** → http://localhost:5000  
